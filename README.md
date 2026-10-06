@@ -1,2 +1,2 @@
 # I2CTextScroller
-A simple I2C text scorller
+A simple I2C text scroller
