@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For I2CTextScroller
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+I2CTextScroller	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	        	KEYWORD2
+backlight		KEYWORD2
+noBacklight	KEYWORD2
+setCursor		KEYWORD2
+print 		KEYWORD2
+update		KEYWORD2
+setScrollDelay KEYWORD2
+resetLCDState KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
