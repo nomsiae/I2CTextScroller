@@ -1,0 +1,17 @@
+{
+  "name": "I2CTextScroller",
+  "keywords": "lcd, LCD, liquidcrystal, I2C, scroll",
+  "description": "A simple I2C text scorller",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nomsiae/I2CTextScroller.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "espressif8266",
+    "espressif32"
+  ]
+}
